@@ -41,7 +41,7 @@ In this lab, Wazuh is utilized to analyze a system intrusion, identify how the a
 4. **Discovering New Account Credentials**: Analyzing events to identify newly created accounts and their credentials.
 5. **Executable Analysis**: Identifying the executable used for credential dumping.
 
-For a detailed step-by-step process, please refer to the [full lab write-up](link-to-full-write-up).
+For a detailed step-by-step process, please refer to the [full lab write-up](https://github.com/LucasCodes8/Using-Wazuh-and-Sysmon-for-Cyber-Defense/blob/main/Using%20Wazuh%20and%20Sysmon%20for%20Cyber%20Defense.pdf).
 
 ## Results and Analysis
 - Identified the initial access vector through a suspicious file execution.
